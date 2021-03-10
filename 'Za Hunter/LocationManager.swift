@@ -19,3 +19,5 @@ class LocationManager: NSObject, CLLocationManagerDelegate, ObservableObject {
            locationManager.startUpdatingLocation()
        }
 }
+
+
